@@ -10,4 +10,9 @@ For the wallets we have we will use Multisig from Gnosis. All boardmembers will 
 When someone wants to make a transaction, they need a minimum of 2/3 of the keys to approve it.
 In this way the wallets will be more safe for all of us.
 
+- Update 22/10/2021 -
+Gnosis Multisig wallets are down due to a node failure and we have been forced to use temporary wallets until they are up and running.
+
+
 - After the launch we will share the contract here -
+
